@@ -1,3 +1,10 @@
+//Macors = > 
+// Macros are a way to generate code at compile time
+// Macros are defined using the macro_rules! macro
+// Macros are used to define functions that take a variable number of arguments
+// Macros are used to define functions that take a variable number of arguments
+
+
 fn main() {
     let greeting = "hello, world";
     let crash_reason = "I crashed";
@@ -61,7 +68,7 @@ fn main() {
         println!("You are not an adult");
     }
 
-    
+
     //ternary operator
     let is_adult = if is_adult{true}else{false};
     println!("is_adult = {}", is_adult);
