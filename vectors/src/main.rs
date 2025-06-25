@@ -1,7 +1,5 @@
 //Vectors => Vectors are basically dynamic arrays , their size can be changed at runtime
 
-
-
 fn main() {
     let mut years:Vec<i32> = vec![1,2,3,4];
     years.push(2010); // now years has 5 elements , ending with 2010
@@ -60,7 +58,14 @@ fn main() {
     
     // When v and heap_int go out of scope, their heap memory is freed
     // This is handled automatically in Rust but must be manual in some languages
-    
+
+    struct vecMetadata{
+        len : usize,
+        capacity : usize,
+        ptr : *mut u8,
+        data : *mut u8,
+        data : *mut u8,
+    }
      */
 
 }
