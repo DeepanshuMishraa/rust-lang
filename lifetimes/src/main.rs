@@ -43,5 +43,17 @@ fn first_word(s: &str) -> &str {  // Rust knows the return reference is tied to 
 */
 
 fn main() {
-    println!("Hello, world!");
+    let s1 = String::from("hello");
+    let s2 = String::from("world");
+    let result = longest(&s1, &s2);
+    println!("The longest string is {}", result);   
 }
+
+fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
+    if x.len() > y.len() {
+        x
+    } else {
+        y
+    }
+}
+
