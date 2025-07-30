@@ -11,6 +11,12 @@ enum Direction {
     West
 }
 
+
+enum Shape{
+    Cirlce(f32),
+    Square(f32)
+}
+
 impl Rect{
     fn area(&self)->f32{
         return self.height * self.width;
@@ -45,5 +51,22 @@ fn main() {
         Direction::West => println!("The direction is West"),
         Direction::South => println!("The direction is South"),
         Direction::North => println!("The direction is North"),
+    }
+
+    let shape = Shape::Cirlce(5.0);
+    match shape{
+        Shape::Cirlce(radius) => println!("The radius of the circle is: {}", radius),
+        Shape::Square(side) => println!("The side of the square is: {}", side),
+    }
+
+    let area = calculate_area(shape);
+    println!("The area of the shape is: {}", area);
+}
+
+
+fn calculate_area(s:Shape)->f32{
+    match s{
+        Shape::Cirlce(radius)=> 3.14*radius*radius,
+        Shape::Square(side)=> side*side,
     }
 }
