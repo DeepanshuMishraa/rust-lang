@@ -1,0 +1,11 @@
+/home/dipxsy/Desktop/learnings/rust-lang/serde-cl/target/debug/deps/borsh-90ef688919c8f549.d: /home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/lib.rs /home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/de/mod.rs /home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/de/hint.rs /home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/ser/mod.rs /home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/ser/helpers.rs /home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/error.rs /home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/../docs/rustdoc_include/borsh_crate_top_level.md
+
+/home/dipxsy/Desktop/learnings/rust-lang/serde-cl/target/debug/deps/libborsh-90ef688919c8f549.rmeta: /home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/lib.rs /home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/de/mod.rs /home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/de/hint.rs /home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/ser/mod.rs /home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/ser/helpers.rs /home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/error.rs /home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/../docs/rustdoc_include/borsh_crate_top_level.md
+
+/home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/lib.rs:
+/home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/de/mod.rs:
+/home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/de/hint.rs:
+/home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/ser/mod.rs:
+/home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/ser/helpers.rs:
+/home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/error.rs:
+/home/dipxsy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/../docs/rustdoc_include/borsh_crate_top_level.md:
